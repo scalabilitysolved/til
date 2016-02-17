@@ -3,6 +3,12 @@
 Set up WireMock in Junit Tests by first declaring a Rule, adding a notifier of type `ConsoleNotifier` will enable verbose logging and is very useful when your requests aren't matching your stubbed routes.
 
 ```java
+import org.junit.Rule;
+import static com.github.tomakehurst.wiremock.core.WireMockConfiguration.wireMockConfig;
+
+import com.github.tomakehurst.wiremock.common.ConsoleNotifier;
+import com.github.tomakehurst.wiremock.junit.WireMockRule;
+
 	@Rule
 	public WireMockRule wireMockRule = new WireMockRule(wireMockConfig().port(MOCK_SEVER_PORT).notifier(new ConsoleNotifier(true)));
 ```
