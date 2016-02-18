@@ -4,6 +4,7 @@
 * [Git](#git)
 * [Java](#java)
 * [MongoDB](#mongodb)
+* [Scala](#scala)
 * [Vim](#vim)
 
 
@@ -23,6 +24,10 @@
 ### MongoDB
 
 - [Find documents that are missing a field](mongodb/find-documents-that-are-missing-a-field.md)
+
+### Scala
+
+- [Ignore Grunt when running Play tests via SBT](scala/ignore-grunt-for-running-tests-via-sbt-and-play.md)
 
 ### Vim
 
