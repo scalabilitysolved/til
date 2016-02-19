@@ -8,7 +8,8 @@ sudo apt-get install tree
 
 Then you can run it like so:
 
-1. Only show folder structure
+* Only show folder structure
+
 ```bash
 tree -d
 ```
@@ -38,7 +39,8 @@ and produces:
                 └── client
 ```
 
-2. Show folders and files
+* Show folders and files
+
 ```bash
 tree
 ```
@@ -89,7 +91,8 @@ and produces:
                 └── UpfetchApplicationTests.java
 ```
 
-3. Limit recursion through the directory to X steps
+* Limit recursion through the directory to X steps
+
 ```bash
 tree -L 3
 ```
@@ -110,7 +113,7 @@ and produces:
         └── com
 ```
 
-4. If you have a ton of folders and need to find a specific one and how it routes back to the parent directory then you can do:
+* If you have a ton of folders and need to find a specific one and how it routes back to the parent directory then you can do:
 
 ```bash
 tree -d | grep -B100 mapping
