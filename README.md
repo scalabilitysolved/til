@@ -20,6 +20,7 @@
 ### Linux
 
 - [Pretty print curl JSON](linux/pretty-print-curl-json.md)
+- [Print directory structure of a folder out](linux/print-directory-structure-of-a-folder-out.md)
 
 
 ### MongoDB
