@@ -1,16 +1,12 @@
 ### Categories
 
-* [Bash](#bash)
 * [Git](#git)
 * [Java](#java)
+* [Linux](#linux)
 * [MongoDB](#mongodb)
 * [Scala](#scala)
 * [Vim](#vim)
 
-
-### Bash
-
-- [Pretty print curl JSON](bash/pretty-print-curl-json.md)
 
 ### Git
 
@@ -20,6 +16,11 @@
 
 - [Type inference using Lombok](java/type-inference-using-lombok.md)
 - [Wiremock and Junit Testing](java/wiremock-junit-tests.md)
+
+### Linux
+
+- [Pretty print curl JSON](linux/pretty-print-curl-json.md)
+
 
 ### MongoDB
 
