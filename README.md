@@ -30,6 +30,7 @@
 ### Scala
 
 - [Ignore Grunt when running Play tests via SBT](scala/ignore-grunt-for-running-tests-via-sbt-and-play.md)
+- [Run SBT task continuously](scala/run-sbt-task-continuously.md)
 
 ### Vim
 
