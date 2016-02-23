@@ -16,6 +16,7 @@
 
 - [Type inference using Lombok](java/type-inference-using-lombok.md)
 - [Wiremock and Junit Testing](java/wiremock-junit-tests.md)
+- [Avoid unchecked casts](java/avoid-unchecked-casts.md)
 
 ### Linux
 
