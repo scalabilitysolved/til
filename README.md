@@ -15,8 +15,9 @@
 ### Java
 
 - [Type inference using Lombok](java/type-inference-using-lombok.md)
-- [Wiremock and Junit Testing](java/wiremock-junit-tests.md)
+- [WireMock and Junit Testing](java/wiremock-junit-tests.md)
 - [Avoid unchecked casts](java/avoid-unchecked-casts.md)
+- [Print out all requests that WireMock receives](java/print-out-all-requests-that-wiremock-received.md)
 
 ### Linux
 
