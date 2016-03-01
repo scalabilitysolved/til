@@ -28,6 +28,7 @@
 ### MongoDB
 
 - [Find documents that are missing a field](mongodb/find-documents-that-are-missing-a-field.md)
+- [Find documents that contain a specific field](mongodb/find-documents-that-contain-a-specific-field.md)
 
 ### Scala
 
