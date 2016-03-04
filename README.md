@@ -1,3 +1,9 @@
+> Today I learned
+
+After seeing this great [https://github.com/jbranchaud/til](repo) I decided to record useful pieces of knowledge that usually send me back to earlier projects to dig up, adding these here also helps commit it to my long term memory.
+
+_12 TILs and counting_
+
 ### Categories
 
 * [Git](#git)
