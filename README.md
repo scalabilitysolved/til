@@ -24,6 +24,7 @@ _12 TILs and counting_
 - [WireMock and Junit Testing](java/wiremock-junit-tests.md)
 - [Avoid unchecked casts](java/avoid-unchecked-casts.md)
 - [Print out all requests that WireMock receives](java/print-out-all-requests-that-wiremock-received.md)
+- [Bind large array values in JSON to POJOs using the Play Framework](java/binding-json-with-large-arrays-to-pojos-using-play-framework.md)
 
 ### Linux
 
