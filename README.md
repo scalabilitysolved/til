@@ -25,6 +25,7 @@ _13 TILs and counting_
 - [Avoid unchecked casts](java/avoid-unchecked-casts.md)
 - [Print out all requests that WireMock receives](java/print-out-all-requests-that-wiremock-received.md)
 - [Bind large array values in JSON to POJOs using the Play Framework](java/binding-json-with-large-arrays-to-pojos-using-play-framework.md)
+- [Find Levenshtein distance between two Strings](java/find-the-levenshtein-distance-between-two-strings.md)
 
 ### Linux
 
