@@ -48,3 +48,4 @@ _16 TILs and counting_
 ### Vim
 
 - [Copy and pasting](vim/copying-and-pasting.md)
+- [Set line numbers](vim/set-line-numbers-in-vim.md)
