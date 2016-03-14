@@ -27,6 +27,7 @@ _15 TILs and counting_
 - [Bind large array values in JSON to POJOs using the Play Framework](java/binding-json-with-large-arrays-to-pojos-using-play-framework.md)
 - [Find Levenshtein distance between two Strings](java/find-the-levenshtein-distance-between-two-strings.md)
 - [Sorting Map entries via values](java/sorting-map-entries-via-value.md)
+- [Check occurrences in a list](java/check-frequency-of-occurrences-in-a-list.md)
 
 ### Linux
 
