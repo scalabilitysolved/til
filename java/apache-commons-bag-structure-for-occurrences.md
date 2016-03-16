@@ -15,7 +15,7 @@ For example to find the occurrences of an elements in a collection we can do the
 	}
 ```
 
-But also handily if we only want to work with those elemtns that are unique then we can access an immutable set from the databag too like so:
+But also handily if we only want to work with those elements that are unique then we can access an immutable set from the databag too like so:
 
 ```java
 
