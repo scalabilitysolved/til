@@ -29,6 +29,7 @@ _20 TILs and counting_
 - [Sorting Map entries via values](java/sorting-map-entries-via-value.md)
 - [Check occurrences in a list](java/check-frequency-of-occurrences-in-a-list.md)
 - [Apache commons bag structure for occurrences](java/apache-commons-bag-structure-for-occurrences.md)
+- [Extract links from a String](java/extract-links-from-a-string.md)
 
 ### Linux
 
