@@ -30,6 +30,7 @@ _21 TILs and counting_
 - [Check occurrences in a list](java/check-frequency-of-occurrences-in-a-list.md)
 - [Apache commons bag structure for occurrences](java/apache-commons-bag-structure-for-occurrences.md)
 - [Extract links from a String](java/extract-links-from-a-string.md)
+- [Play Framework XSS Gotchas](java/play-framework-xss-gotchas.md)
 
 ### Linux
 
