@@ -31,6 +31,7 @@ _22 TILs and counting_
 - [Apache commons bag structure for occurrences](java/apache-commons-bag-structure-for-occurrences.md)
 - [Extract links from a String](java/extract-links-from-a-string.md)
 - [Play Framework XSS Gotchas](java/play-framework-xss-gotchas.md)
+- [Set Spy Memcached Logging level via Play](java/set-spy-memcached-logging-levels-using-play.md)
 
 ### Linux
 
