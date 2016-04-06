@@ -38,6 +38,7 @@ _23 TILs and counting_
 - [Pretty print curl JSON](linux/pretty-print-curl-json.md)
 - [Print directory structure of a folder out](linux/print-directory-structure-of-a-folder-out.md)
 - [Search Terminal history easily](linux/search-terminal-history-easily.md)
+- [Exclude matches using Grep](linux/exclude-matches-using-grep.md)
 
 
 ### MongoDB
