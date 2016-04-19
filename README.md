@@ -39,6 +39,7 @@ _24 TILs and counting_
 - [Print directory structure of a folder out](linux/print-directory-structure-of-a-folder-out.md)
 - [Search Terminal history easily](linux/search-terminal-history-easily.md)
 - [Exclude matches using Grep](linux/exclude-matches-using-grep.md)
+- [Find unique matches from-partial line matches with grep](linux/find-unique-matches-from-partial-line-matches-with-grep.md)
 
 
 ### MongoDB
