@@ -17,6 +17,7 @@ _25 TILs and counting_
 ### Git
 
 - [List branches by date](git/list-branches-by-date.md)
+- [List contributors to a repo and sorted via commits](git/list-contributors-to-a-repo-sorted-by-number-of-commits.md)
 
 ### Java
 
