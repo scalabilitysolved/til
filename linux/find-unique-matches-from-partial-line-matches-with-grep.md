@@ -1,6 +1,6 @@
 # Find unique matches from partial line matches using Grep
 
-Using Grep sometimes you want to find unique instances of a particular detail within a file, give the excerpt of logs below:
+Using Grep sometimes you want to find unique instances of a particular detail within a file, given the excerpt of logs below:
 
 ```text
 2016-04-19 12:32:55,888 [INFO] application - some-cache-key-or-interesting-thing
@@ -9,7 +9,7 @@ Using Grep sometimes you want to find unique instances of a particular detail wi
 2016-04-19 12:32:56,469 [INFO] application - company::1232
 ```
 
-If you want to find all unique strings after then usually you'd reach for something like:
+If you want to find all unique strings after `INFO` then usually you'd reach for something like:
 
 ```bash
 grep INFO | sort | uniq
