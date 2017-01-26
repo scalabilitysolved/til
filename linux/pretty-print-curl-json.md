@@ -5,3 +5,16 @@ When curling API endpoints and you get a large JSON payload it can be difficult 
 ```bash
 curl -v https://someapi-we-want-to-use | python -m json.tool
 ```
+
+If you'd like to colourize the JSON output then you can achieve this with:
+
+```bash
+curl -v https://someapi-we-want-to-use | python -m json.tool | pygmentize -l json
+
+```
+
+However for the easiest time, add it all as an alias in `bash_aliases`
+
+```bash
+alias prettyjson='python -m json.tool | pygmentize -l json'
+```
